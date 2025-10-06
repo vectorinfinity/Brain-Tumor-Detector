@@ -25,11 +25,20 @@ It uses a **custom-trained Keras model** (`model1.h5`) and a **Streamlit** front
 
 ## 🖼️ Demo
 
-Here’s an example of the app interface:
+### 1. Upload Screen
 
-![Brain Tumor Detector Demo](screenshots/1.png) 
+This is the screen where users can upload their MRI scans.
 
-![Brain Tumor Detector Demo](screenshots/2.png)   
+![Upload Screen](screenshots/1.png) 
+*: Upload an MRI scan to begin processing.*
+
+---
+### 2. Prediction Screen
+
+Once the MRI scan is uploaded, the model predicts if a tumor is present, along with a confidence score.
+
+![Brain Tumor Detector Demo](screenshots/2.png)  
+*: The model's prediction displayed with confidence.*
 
 
 ---
