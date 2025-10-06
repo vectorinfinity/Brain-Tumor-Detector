@@ -27,9 +27,9 @@ It uses a **custom-trained Keras model** (`model1.h5`) and a **Streamlit** front
 
 Here’s an example of the app interface:
 
-![Brain Tumor Detector Demo](screenshot/1.png) 
+![Brain Tumor Detector Demo](screenshots/1.png) 
 
-![Brain Tumor Detector Demo](screenshot/2.png)   
+![Brain Tumor Detector Demo](screenshots/2.png)   
 
 
 ---
