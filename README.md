@@ -21,25 +21,6 @@ It uses a **custom-trained Keras model** (`model1.h5`) and a **Streamlit** front
 - ⚠️ Graceful error handling if model file is missing.  
 - 🧑‍💻 Fully open-source and customizable.
 
----
-
-## 🖼️ Demo
-
-### 1. Upload Screen
-
-This is the screen where users can upload their MRI scans.
-
-![Upload Screen](screenshots/1.png) 
-*: Upload an MRI scan to begin processing.*
-
----
-### 2. Prediction Screen
-
-Once the MRI scan is uploaded, the model predicts if a tumor is present, along with a confidence score.
-
-![Brain Tumor Detector Demo](screenshots/2.png)  
-*: The model's prediction displayed with confidence.*
-
 
 ---
 
